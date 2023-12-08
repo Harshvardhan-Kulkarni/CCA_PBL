@@ -1,0 +1,146 @@
+[
+  {
+    "name": "Adult Census Income Binary Classification dataset",
+    "path": "GenericCSV/Adult_Census_Income_Binary_Classification_dataset",
+    "description": "Census Income dataset",
+    "version": "0.0.1",
+    "familyId": "72eb0947-6cd6-4015-b9d1-d2129b4a0ecc",
+    "owner": "Microsoft Corporation",
+    "datatypeId": "DataFrameDirectory"
+  },
+  {
+    "name": "Automobile price data (Raw)",
+    "path": "GenericCSV/Automobile_price_data_(Raw)",
+    "description": "Clean missing data module required. Prices of various automobiles against make, model and technical specifications",
+    "version": "0.0.1",
+    "familyId": "053d815b-ac1b-07d6-b6c5-0646456107d4",
+    "owner": "Microsoft Corporation",
+    "datatypeId": "DataFrameDirectory"
+  },
+  {
+    "name": "CRM Appetency Labels Shared",
+    "path": "TSV/CRM_Appetency_Labels_Shared",
+    "description": "CRM Appetency Labels",
+    "version": "0.0.1",
+    "familyId": "D718BE8A-CAE6-49F3-AEEB-63507ECAB268",
+    "owner": "Microsoft Corporation",
+    "datatypeId": "DataFrameDirectory"
+  },
+  {
+    "name": "CRM Churn Labels Shared",
+    "path": "TSV/CRM_Churn_Labels_Shared",
+    "description": "CRM Churn Labels",
+    "version": "0.0.1",
+    "familyId": "1336444D-0602-4746-AE3F-C9D758755850",
+    "owner": "Microsoft Corporation",
+    "datatypeId": "DataFrameDirectory"
+  },
+  {
+    "name": "CRM Dataset Shared",
+    "path": "TSV/CRM_Dataset_Shared",
+    "description": "CRM Dataset",
+    "version": "0.0.1",
+    "familyId": "B2C8A076-1A29-48EB-914A-09914090E399",
+    "owner": "Microsoft Corporation",
+    "datatypeId": "DataFrameDirectory"
+  },
+  {
+    "name": "CRM Upselling Labels Shared",
+    "path": "TSV/CRM_Upselling_Labels_Shared",
+    "description": "CRM Upselling Labels",
+    "version": "0.0.1",
+    "familyId": "0ACFFD6A-2345-4C71-B556-200CCF427656",
+    "owner": "Microsoft Corporation",
+    "datatypeId": "DataFrameDirectory"
+  },
+  {
+    "name": "Flight Delays Data",
+    "path": "GenericCSV/Flight_Delays_Data",
+    "description": "Flight Delays Data",
+    "version": "0.0.1",
+    "familyId": "950010C4-7D8F-446D-A048-07ECADBB6D74",
+    "owner": "Microsoft Corporation",
+    "datatypeId": "DataFrameDirectory"
+  },
+  {
+    "name": "German Credit Card UCI dataset",
+    "path": "GenericCSV/German_Credit_Card_UCI_dataset",
+    "description": "German Credit Card UCI dataset",
+    "version": "0.0.1",
+    "familyId": "9904C6BB-E1EC-47C7-9818-5D9424776346",
+    "owner": "Microsoft Corporation",
+    "datatypeId": "DataFrameDirectory"
+  },
+  {
+    "name": "IMDB Movie Titles",
+    "path": "GenericCSV/IMDB_Movie_Titles",
+    "description": "IMDB Movie Titles",
+    "version": "0.0.1",
+    "familyId": "C11C6A1A-A4D8-45DD-A394-955A2215C9DE",
+    "owner": "Microsoft Corporation",
+    "datatypeId": "DataFrameDirectory"
+  },
+  {
+    "name": "Movie Ratings",
+    "path": "GenericCSV/Movie_Ratings",
+    "description": "Movie Ratings",
+    "version": "0.0.1",
+    "familyId": "41278D58-B7F0-49BE-999B-90CA6FB4409D",
+    "owner": "Microsoft Corporation",
+    "datatypeId": "DataFrameDirectory"
+  },
+  {
+    "name": "Weather Dataset",
+    "path": "GenericCSV/Weather_Dataset",
+    "description": "Weather Dataset",
+    "version": "0.0.1",
+    "familyId": "28F5B7AF-4E60-4F2D-913C-199AE21AC8C4",
+    "owner": "Microsoft Corporation",
+    "datatypeId": "DataFrameDirectory"
+  },
+  {
+    "name": "Wikipedia SP 500 Dataset",
+    "path": "GenericCSV/Wikipedia_SP_500_Dataset",
+    "description": "Wikipedia SP 500 Dataset",
+    "version": "0.0.1",
+    "familyId": "926F4E9F-B46D-43E0-AFBA-7C4BB60C4F88",
+    "owner": "Microsoft Corporation",
+    "datatypeId": "DataFrameDirectory"
+  },
+  {
+    "name": "Animal Images Dataset",
+    "path": "Images/Animals_Images_Dataset",
+    "description": "This sample dataset is derived from Open Image Dataset and includes 3 animal categories (cat, dog, frog). Each category contains 10 images.",
+    "version": "0.0.6",
+    "familyId": "5d3cca8a-b253-4975-ba0e-28da8b8402a1",
+    "owner": "Microsoft Corporation",
+    "datatypeId": "AnyDirectory"
+  },
+  {
+    "name": "Restaurant Feature Data",
+    "path": "GenericCSV/Restaurant_Item_Features",
+    "description": "Contains restaurant features, such as name, address and dress_code.",
+    "version": "0.0.1",
+    "familyId": "92a953ce-f5e2-4990-9277-4454316b5e8f",
+    "owner": "Microsoft Corporation",
+    "datatypeId": "DataFrameDirectory"
+  },
+  {
+    "name": "Restaurant Ratings",
+    "path": "GenericCSV/Restaurant_Ratings",
+    "description": "Contains ratings given by customers to restaurants on scale from 0 to 2.",
+    "version": "0.0.1",
+    "familyId": "1dac71ba-48a1-427c-b847-b8c2cfc1d6d1",
+    "owner": "Microsoft Corporation",
+    "datatypeId": "DataFrameDirectory"
+  },
+  {
+    "name": "Restaurant Customer Data",
+    "path": "GenericCSV/Restaurant_User_Features",
+    "description": "Contains customer features, such as drink_level, dress_preference and marital_status.",
+    "version": "0.0.1",
+    "familyId": "52632b9a-2f5f-4700-8331-dc73d533037c",
+    "owner": "Microsoft Corporation",
+    "datatypeId": "DataFrameDirectory"
+  }
+]
